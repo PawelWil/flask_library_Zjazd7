@@ -25,12 +25,16 @@
         <tbody>
         {% for book in books %}
             <tr>
-                <td>{{ book.id }}</td>
+                <td>{{ book.book_id}}</td>
                 <td>{{ book.isbn }}</td>
                 <td>{{ book.title }}</td>
                 <td>{{ book.author }}</td>
                 <td>{{ book.publication_date }}</td>
-
+                <td>
+                    <a href="{{ url_for('find_book_by_id', book_id = book.book_id) }}">
+                        Szczegóły
+                    </a>
+                </td>
             </tr>
         {% endfor %}
         </tbody>

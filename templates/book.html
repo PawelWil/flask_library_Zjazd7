@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Książka</title>
+
+    <link rel="stylesheet" href="/static/css/uikit.min.css">
+
+    <script src="/static/js/uikit.min.js"></script>
+    <script src="/static/js/uikit-icons.min.js"></script>
+</head>
+<body>
+<div class="uk-container uk-margin-large-top">
+    <div class="uk-card uk-card-default uk-width-1-2@m">
+        <div class="uk-card-header">
+            Szczegóły książki
+        </div>
+        <div class="uk-card-body">
+            <p>ISBN: {{ book.isbn }}</p>
+            <p>Tytuł: {{ book.title }}</p>
+            <p>Autor: {{ book.author }}</p>
+            <p>Data publikacji: {{ book.publication_date }}</p>
+        </div>
+        <div class="uk-card-footer">
+
+        </div>
+    </div>
+</div>
+</body>
+</html>

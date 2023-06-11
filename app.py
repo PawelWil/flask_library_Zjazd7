@@ -33,11 +33,13 @@ def add_book():
     return redirect(url_for('all_books'))
 
 @app.route('/books/<int:book_id>')
-def find_book_by_id(booki_id: int)
-    found_book = model.find_by_id(booki_id)
+def find_book_by_id(book_id: int):
+    found_book = model.find_by_id(book_id)
 
     if not found_book:
-        abort(404, f"Nie znaleziono ksiązki po id {booki_id}")
+        abort(404, f"Nie znaleziono ksiązki po id {book_id}")
+
+    return render_template('book.html', book=found_book)
 
 
 
