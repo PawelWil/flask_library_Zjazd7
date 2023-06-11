@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Books</title>
+
+    <link rel="stylesheet" href="/static/css/uikit.min.css">
+
+    <script src="/static/js/uikit.min.js"></script>
+    <script src="/static/js/uikit-icons.min.js"></script>
+</head>
+<body>
+<div class="uk-container uk-margin-large-top">
+    <table class="uk-table uk-table-striped">
+        <thead>
+        <tr>
+            <th>ID</th>
+            <th>ISBN</th>
+            <th>Tytuł</th>
+            <th>Autor</th>
+            <th>Data wydania</th>
+        </tr>
+        </thead>
+        <tbody>
+        {% for book in books %}
+            <tr>
+                <td>{{ book.id }}</td>
+                <td>{{ book.isbn }}</td>
+                <td>{{ book.title }}</td>
+                <td>{{ book.author }}</td>
+                <td>{{ book.publication_date }}</td>
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+</div>
+</body>
+</html>

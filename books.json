@@ -1,0 +1,702 @@
+[
+  {
+    "id": "1",
+    "isbn": "9780552149518",
+    "title": "Da Vinci Code",
+    "author": "Brown, Dan",
+    "publicationDate": "01.03.2004"
+  },
+  {
+    "id": "2",
+    "isbn": "9780747532743",
+    "title": "Harry Potter and the Philosopher's Stone",
+    "author": "Rowling, J. K.",
+    "publicationDate": "26.06.1997"
+  },
+  {
+    "id": "3",
+    "isbn": "9780747538486",
+    "title": "Harry Potter and the Chamber of Secrets",
+    "author": "Rowling, J. K.",
+    "publicationDate": "01.04.1999"
+  },
+  {
+    "id": "4",
+    "isbn": "9780552150736",
+    "title": "Angels and Demons",
+    "author": "Brown, Dan",
+    "publicationDate": "01.07.2003"
+  },
+  {
+    "id": "5",
+    "isbn": "9780747551003",
+    "title": "Harry Potter and the Order of the Phoenix",
+    "author": "Rowling, J. K.",
+    "publicationDate": "21.06.2003"
+  },
+  {
+    "id": "6",
+    "isbn": "9780747581086",
+    "title": "Harry Potter and the Half-blood Prince:Children's Edition",
+    "author": "Rowling, J. K.",
+    "publicationDate": "16.07.2005"
+  },
+  {
+    "id": "7",
+    "isbn": "9780747591054",
+    "title": "Harry Potter and the Deathly Hallows",
+    "author": "Rowling, J. K.",
+    "publicationDate": "21.07.2007"
+  },
+  {
+    "id": "8",
+    "isbn": "9780747546290",
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "author": "Rowling, J. K.",
+    "publicationDate": "01.04.2000"
+  },
+  {
+    "id": "9",
+    "isbn": "9781904233657",
+    "title": "Twilight",
+    "author": "Meyer, Stephenie",
+    "publicationDate": "22.03.2007"
+  },
+  {
+    "id": "10",
+    "isbn": "9780747550990",
+    "title": "Harry Potter and the Goblet of Fire",
+    "author": "Rowling, J. K.",
+    "publicationDate": "06.07.2001"
+  },
+  {
+    "id": "11",
+    "isbn": "9780552151764",
+    "title": "Deception Point",
+    "author": "Brown, Dan",
+    "publicationDate": "01.05.2004"
+  },
+  {
+    "id": "12",
+    "isbn": "9781904233886",
+    "title": "New Moon",
+    "author": "Meyer, Stephenie",
+    "publicationDate": "06.09.2007"
+  },
+  {
+    "id": "13",
+    "isbn": "9780330457729",
+    "title": "Lovely Bones",
+    "author": "Sebold, Alice",
+    "publicationDate": "04.12.2009"
+  },
+  {
+    "id": "14",
+    "isbn": "9780552151696",
+    "title": "Digital Fortress",
+    "author": "Brown, Dan",
+    "publicationDate": "05.03.2004"
+  },
+  {
+    "id": "15",
+    "isbn": "9780099450252",
+    "title": "Curious Incident of the Dog in the Night-time",
+    "author": "Haddon, Mark",
+    "publicationDate": "01.04.2004"
+  },
+  {
+    "id": "16",
+    "isbn": "9781904233916",
+    "title": "Eclipse",
+    "author": "Meyer, Stephenie",
+    "publicationDate": "03.07.2008"
+  },
+  {
+    "id": "17",
+    "isbn": "9781847245458",
+    "title": "Girl with the Dragon Tattoo:Millennium Trilogy",
+    "author": "Larsson, Stieg",
+    "publicationDate": "24.07.2008"
+  },
+  {
+    "id": "18",
+    "isbn": "9780747566533",
+    "title": "Kite Runner",
+    "author": "Hosseini, Khaled",
+    "publicationDate": "07.06.2004"
+  },
+  {
+    "id": "19",
+    "isbn": "9780099464464",
+    "title": "Time Traveler's Wife",
+    "author": "Niffenegger, Audrey",
+    "publicationDate": "29.05.2004"
+  },
+  {
+    "id": "20",
+    "isbn": "9780141017891",
+    "title": "World According to Clarkson",
+    "author": "Clarkson, Jeremy",
+    "publicationDate": "26.05.2005"
+  },
+  {
+    "id": "21",
+    "isbn": "9780099429791",
+    "title": "Atonement",
+    "author": "McEwan, Ian",
+    "publicationDate": "02.05.2002"
+  },
+  {
+    "id": "22",
+    "isbn": "9780593054277",
+    "title": "Lost Symbol",
+    "author": "Brown, Dan",
+    "publicationDate": "15.09.2009"
+  },
+  {
+    "id": "23",
+    "isbn": "9780552997041",
+    "title": "Short History of Nearly Everything,A",
+    "author": "Bryson, Bill",
+    "publicationDate": "01.06.2004"
+  },
+  {
+    "id": "24",
+    "isbn": "9781905654284",
+    "title": "Breaking Dawn",
+    "author": "Meyer, Stephenie",
+    "publicationDate": "04.08.2008"
+  },
+  {
+    "id": "25",
+    "isbn": "9780747546245",
+    "title": "Harry Potter and the Goblet of Fire",
+    "author": "Rowling, J. K.",
+    "publicationDate": "08.07.2000"
+  },
+  {
+    "id": "26",
+    "isbn": "9780747591061",
+    "title": "Harry Potter and the Deathly Hallows",
+    "author": "Rowling, J. K.",
+    "publicationDate": "21.07.2007"
+  },
+  {
+    "id": "27",
+    "isbn": "9781849163422",
+    "title": "Girl Who Played With Fire:Millennium Trilogy",
+    "author": "Larsson, Stieg",
+    "publicationDate": "29.07.2010"
+  },
+  {
+    "id": "28",
+    "isbn": "9780752837505",
+    "title": "Child Called It,A",
+    "author": "Pelzer, Dave",
+    "publicationDate": "04.01.2001"
+  },
+  {
+    "id": "29",
+    "isbn": "9780349116754",
+    "title": "No.1 Ladies' Detective Agency:No.1 Ladies' Detective Agency S.",
+    "author": "McCall Smith, Alexander",
+    "publicationDate": "05.06.2003"
+  },
+  {
+    "id": "30",
+    "isbn": "9780718147655",
+    "title": "You are What You Eat:The Plan That Will Change Your Life",
+    "author": "McKeith, Gillian",
+    "publicationDate": "17.06.2004"
+  },
+  {
+    "id": "31",
+    "isbn": "9780006512134",
+    "title": "Man and Boy",
+    "author": "Parsons, Tony",
+    "publicationDate": "06.03.2000"
+  },
+  {
+    "id": "32",
+    "isbn": "9780099387916",
+    "title": "Birdsong",
+    "author": "Faulks, Sebastian",
+    "publicationDate": "18.07.1994"
+  },
+  {
+    "id": "33",
+    "isbn": "9780752877327",
+    "title": "Labyrinth",
+    "author": "Mosse, Kate",
+    "publicationDate": "11.01.2006"
+  },
+  {
+    "id": "34",
+    "isbn": "9780755309511",
+    "title": "Island",
+    "author": "Hislop, Victoria",
+    "publicationDate": "10.04.2006"
+  },
+  {
+    "id": "35",
+    "isbn": "9781841953922",
+    "title": "Life of Pi",
+    "author": "Martel, Yann",
+    "publicationDate": "17.05.2003"
+  },
+  {
+    "id": "36",
+    "isbn": "9780091889487",
+    "title": "Dr. Atkins' New Diet Revolution:The No-hunger, Luxurious Weight Loss P",
+    "author": "Atkins, Robert C.",
+    "publicationDate": "02.01.2003"
+  },
+  {
+    "id": "37",
+    "isbn": "9780747599876",
+    "title": "Tales of Beedle the Bard",
+    "author": "Rowling, J. K.",
+    "publicationDate": "04.12.2008"
+  },
+  {
+    "id": "38",
+    "isbn": "9780749397548",
+    "title": "Captain Corelli's Mandolin",
+    "author": "De Bernieres, Louis",
+    "publicationDate": "01.06.1995"
+  },
+  {
+    "id": "39",
+    "isbn": "9780563384304",
+    "title": "Delia's How to Cook:(Bk.1) ",
+    "author": "Smith, Delia",
+    "publicationDate": "12.10.1998"
+  },
+  {
+    "id": "40",
+    "isbn": "9780330507417",
+    "title": "Gruffalo",
+    "author": "Donaldson, Julia",
+    "publicationDate": "06.03.2009"
+  },
+  {
+    "id": "41",
+    "isbn": "9781861976123",
+    "title": "Eats, Shoots and Leaves:The Zero Tolerance Approach to Punctuation",
+    "author": "Truss, Lynne",
+    "publicationDate": "06.11.2003"
+  },
+  {
+    "id": "42",
+    "isbn": "9780590660549",
+    "title": "Northern Lights:His Dark Materials S.",
+    "author": "Pullman, Philip",
+    "publicationDate": "23.10.1998"
+  },
+  {
+    "id": "43",
+    "isbn": "9780755331420",
+    "title": "Interpretation of Murder",
+    "author": "Rubenfeld, Jed",
+    "publicationDate": "15.01.2007"
+  },
+  {
+    "id": "44",
+    "isbn": "9781849162746",
+    "title": "Girl Who Kicked the Hornets' Nest:Millennium Trilogy",
+    "author": "Larsson, Stieg",
+    "publicationDate": "01.04.2010"
+  },
+  {
+    "id": "45",
+    "isbn": "9780330367356",
+    "title": "Bridget Jones: The Edge of Reason",
+    "author": "Fielding, Helen",
+    "publicationDate": "15.06.2000"
+  },
+  {
+    "id": "46",
+    "isbn": "9780141020525",
+    "title": "Short History of Tractors in Ukrainian,A",
+    "author": "Lewycka, Marina",
+    "publicationDate": "02.03.2006"
+  },
+  {
+    "id": "47",
+    "isbn": "9780722532935",
+    "title": "Alchemist:A Fable About Following Your Dream",
+    "author": "Coelho, Paulo",
+    "publicationDate": "06.09.1999"
+  },
+  {
+    "id": "48",
+    "isbn": "9780552996006",
+    "title": "Notes from a Small Island",
+    "author": "Bryson, Bill",
+    "publicationDate": "01.08.1996"
+  },
+  {
+    "id": "49",
+    "isbn": "9780099487821",
+    "title": "Boy in the Striped Pyjamas",
+    "author": "Boyne, John",
+    "publicationDate": "01.02.2007"
+  },
+  {
+    "id": "50",
+    "isbn": "9780141011905",
+    "title": "Stupid White Men:...and Other Sorry Excuses for the State of the Natio",
+    "author": "Moore, Michael",
+    "publicationDate": "03.10.2002"
+  },
+  {
+    "id": "51",
+    "isbn": "9780718154776",
+    "title": "Jamie's 30-minute Meals",
+    "author": "Oliver, Jamie",
+    "publicationDate": "30.09.2010"
+  },
+  {
+    "id": "52",
+    "isbn": "9780099457169",
+    "title": "Broker",
+    "author": "Grisham, John",
+    "publicationDate": "27.08.2005"
+  },
+  {
+    "id": "53",
+    "isbn": "9780330332774",
+    "title": "Bridget Jones's Diary:A Novel",
+    "author": "Fielding, Helen",
+    "publicationDate": "20.06.1997"
+  },
+  {
+    "id": "54",
+    "isbn": "9780241003008",
+    "title": "Very Hungry Caterpillar:The Very Hungry Caterpillar",
+    "author": "Carle, Eric",
+    "publicationDate": "29.09.1994"
+  },
+  {
+    "id": "55",
+    "isbn": "9780747582977",
+    "title": "Thousand Splendid Suns,A",
+    "author": "Hosseini, Khaled",
+    "publicationDate": "22.05.2007"
+  },
+  {
+    "id": "56",
+    "isbn": "9781846051616",
+    "title": "Sound of Laughter",
+    "author": "Kay, Peter",
+    "publicationDate": "05.10.2006"
+  },
+  {
+    "id": "57",
+    "isbn": "9780718147709",
+    "title": "Jamie's Italy",
+    "author": "Oliver, Jamie",
+    "publicationDate": "03.10.2005"
+  },
+  {
+    "id": "58",
+    "isbn": "9780755307500",
+    "title": "Small Island",
+    "author": "Levy, Andrea",
+    "publicationDate": "13.09.2004"
+  },
+  {
+    "id": "59",
+    "isbn": "9780141030142",
+    "title": "Memory Keeper's Daughter",
+    "author": "Edwards, Kim",
+    "publicationDate": "26.04.2007"
+  },
+  {
+    "id": "60",
+    "isbn": "9780007110926",
+    "title": "Billy Connolly",
+    "author": "Stephenson, Pamela",
+    "publicationDate": "08.07.2002"
+  },
+  {
+    "id": "61",
+    "isbn": "9780330448444",
+    "title": "House at Riverton",
+    "author": "Morton, Kate",
+    "publicationDate": "15.06.2007"
+  },
+  {
+    "id": "62",
+    "isbn": "9780747561071",
+    "title": "Harry Potter and the Order of the Phoenix",
+    "author": "Rowling, J. K.",
+    "publicationDate": "10.07.2004"
+  },
+  {
+    "id": "63",
+    "isbn": "9780701181840",
+    "title": "Nigella Express",
+    "author": "Lawson, Nigella",
+    "publicationDate": "06.09.2007"
+  },
+  {
+    "id": "64",
+    "isbn": "9780099771517",
+    "title": "Memoirs of a Geisha",
+    "author": "Golden, Arthur",
+    "publicationDate": "04.06.1998"
+  },
+  {
+    "id": "65",
+    "isbn": "9780563384311",
+    "title": "Delia's How to Cook:(Bk.2) ",
+    "author": "Smith, Delia",
+    "publicationDate": "09.12.1999"
+  },
+  {
+    "id": "66",
+    "isbn": "9780590112895",
+    "title": "Subtle Knife:His Dark Materials S.",
+    "author": "Pullman, Philip",
+    "publicationDate": "16.10.1998"
+  },
+  {
+    "id": "67",
+    "isbn": "9780718148621",
+    "title": "Jamie's Ministry of Food:Anyone Can Learn to Cook in 24 Hours",
+    "author": "Oliver, Jamie",
+    "publicationDate": "03.10.2008"
+  },
+  {
+    "id": "68",
+    "isbn": "9781904994367",
+    "title": "Guinness World Records 2009:2009",
+    "author": null,
+    "publicationDate": "17.09.2008"
+  },
+  {
+    "id": "69",
+    "isbn": "9781861978769",
+    "title": "Why Don't Penguins' Feet Freeze?:And 114 Other Questions",
+    "author": null,
+    "publicationDate": "05.10.2006"
+  },
+  {
+    "id": "70",
+    "isbn": "9780718152437",
+    "title": "Jamie at Home:Cook Your Way to the Good Life",
+    "author": "Oliver, Jamie",
+    "publicationDate": "06.09.2007"
+  },
+  {
+    "id": "71",
+    "isbn": "9780140276336",
+    "title": "White Teeth",
+    "author": "Smith, Zadie",
+    "publicationDate": "25.01.2001"
+  },
+  {
+    "id": "72",
+    "isbn": "9780007156108",
+    "title": "Devil Wears Prada",
+    "author": "Weisberger, Lauren",
+    "publicationDate": "06.10.2003"
+  },
+  {
+    "id": "73",
+    "isbn": "9780593059258",
+    "title": "At My Mother's Knee ...:and Other Low Joints",
+    "author": "O'Grady, Paul",
+    "publicationDate": "24.09.2008"
+  },
+  {
+    "id": "74",
+    "isbn": "9780752893686",
+    "title": "No Time for Goodbye",
+    "author": "Barclay, Linwood",
+    "publicationDate": "12.06.2008"
+  },
+  {
+    "id": "75",
+    "isbn": "9780007207329",
+    "title": "\"Times\" Su Doku:The Utterly Addictive Number-placing Puzzle:(Bk. 1",
+    "author": null,
+    "publicationDate": "07.03.2005"
+  },
+  {
+    "id": "76",
+    "isbn": "9780552998482",
+    "title": "Chocolat",
+    "author": "Harris, Joanne",
+    "publicationDate": "02.03.2000"
+  },
+  {
+    "id": "77",
+    "isbn": "9780718144395",
+    "title": "Return of the Naked Chef",
+    "author": "Oliver, Jamie",
+    "publicationDate": "30.03.2000"
+  },
+  {
+    "id": "78",
+    "isbn": "9780006498407",
+    "title": "Angela's Ashes:A Memoir of a Childhood",
+    "author": "McCourt, Frank",
+    "publicationDate": "06.05.1997"
+  },
+  {
+    "id": "79",
+    "isbn": "9780747563204",
+    "title": "Schott's Original Miscellany",
+    "author": "Schott, Ben",
+    "publicationDate": "04.11.2002"
+  },
+  {
+    "id": "80",
+    "isbn": "9781847670946",
+    "title": "Dreams from My Father:A Story of Race and Inheritance",
+    "author": "Obama, Barack",
+    "publicationDate": "05.06.2008"
+  },
+  {
+    "id": "81",
+    "isbn": "9780007232741",
+    "title": "Dangerous Book for Boys",
+    "author": "Iggulden, Conn & Iggulden, Hal",
+    "publicationDate": "05.06.2006"
+  },
+  {
+    "id": "82",
+    "isbn": "9780099419785",
+    "title": "To Kill a Mockingbird",
+    "author": "Lee, Harper",
+    "publicationDate": "05.10.1989"
+  },
+  {
+    "id": "83",
+    "isbn": "9780747581109",
+    "title": "Harry Potter and the Half-blood Prince",
+    "author": "Rowling, J. K.",
+    "publicationDate": "16.07.2005"
+  },
+  {
+    "id": "84",
+    "isbn": "9780099406136",
+    "title": "Summons",
+    "author": "Grisham, John",
+    "publicationDate": "28.09.2002"
+  },
+  {
+    "id": "85",
+    "isbn": "9780552149525",
+    "title": "Lost Symbol",
+    "author": "Brown, Dan",
+    "publicationDate": "22.07.2010"
+  },
+  {
+    "id": "86",
+    "isbn": "9780140237504",
+    "title": "Catcher in the Rye",
+    "author": "Salinger, J.D.",
+    "publicationDate": "04.08.1994"
+  },
+  {
+    "id": "87",
+    "isbn": "9780593050545",
+    "title": "I Can Make You Thin",
+    "author": "McKenna, Paul",
+    "publicationDate": "17.01.2005"
+  },
+  {
+    "id": "88",
+    "isbn": "9780718144845",
+    "title": "Happy Days with the Naked Chef",
+    "author": "Oliver, Jamie",
+    "publicationDate": "03.09.2001"
+  },
+  {
+    "id": "89",
+    "isbn": "9780552771153",
+    "title": "Brick Lane",
+    "author": "Ali, Monica",
+    "publicationDate": "01.05.2004"
+  },
+  {
+    "id": "90",
+    "isbn": "9780141019376",
+    "title": "Anybody Out There?",
+    "author": "Keyes, Marian",
+    "publicationDate": "08.02.2007"
+  },
+  {
+    "id": "91",
+    "isbn": "9780552772747",
+    "title": "Undomestic Goddess",
+    "author": "Kinsella, Sophie",
+    "publicationDate": "02.01.2006"
+  },
+  {
+    "id": "92",
+    "isbn": "9780552773898",
+    "title": "Book Thief",
+    "author": "Zusak, Markus",
+    "publicationDate": "01.01.2008"
+  },
+  {
+    "id": "93",
+    "isbn": "9780141022925",
+    "title": "I Know You Got Soul",
+    "author": "Clarkson, Jeremy",
+    "publicationDate": "25.05.2006"
+  },
+  {
+    "id": "94",
+    "isbn": "9780316731317",
+    "title": "Sharon Osbourne Extreme:My Autobiography",
+    "author": "Osbourne, Sharon",
+    "publicationDate": "03.10.2005"
+  },
+  {
+    "id": "95",
+    "isbn": "9781904994497",
+    "title": "Guinness World Records 2010",
+    "author": null,
+    "publicationDate": "17.09.2009"
+  },
+  {
+    "id": "96",
+    "isbn": "9780439993586",
+    "title": "Amber Spyglass:His Dark Materials S.",
+    "author": "Pullman, Philip",
+    "publicationDate": "14.09.2001"
+  },
+  {
+    "id": "97",
+    "isbn": "9780552771108",
+    "title": "Can You Keep a Secret?",
+    "author": "Kinsella, Sophie",
+    "publicationDate": "17.03.2003"
+  },
+  {
+    "id": "98",
+    "isbn": "9780552997034",
+    "title": "Down Under",
+    "author": "Bryson, Bill",
+    "publicationDate": "06.08.2001"
+  },
+  {
+    "id": "99",
+    "isbn": "9780099506928",
+    "title": "Spot of Bother,A",
+    "author": "Haddon, Mark",
+    "publicationDate": "07.06.2007"
+  },
+  {
+    "id": "100",
+    "isbn": "9781846053443",
+    "title": "Dear Fatty",
+    "author": "French, Dawn",
+    "publicationDate": "09.10.2008"
+  }
+]

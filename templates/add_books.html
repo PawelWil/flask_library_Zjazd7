@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Books</title>
+
+    <link rel="stylesheet" href="/static/css/uikit.min.css">
+
+    <script src="/static/js/uikit.min.js"></script>
+    <script src="/static/js/uikit-icons.min.js"></script>
+</head>
+<body>
+<div class="uk-container uk-margin-large-top">
+    <h1 class="uk-text-primary">Dodaj nową książkę</h1>
+    <form class="uk-form-stacked">
+        <div class="uk-margin">
+            <label class="uk-form-label" for="isbn">ISBN</label>
+            <div class="uk-form-controls">
+                <input class="uk-input" id="isbn" type="text" name="isbn" placeholder="isbn">
+            </div>
+        </div>
+        <div class="uk-margin">
+            <label class="uk-form-label" for="title">Tytuł</label>
+            <div class="uk-form-controls">
+                <input class="uk-input" id="title" type="text" name="title" placeholder="Tytuł">
+            </div>
+        </div>
+        <div class="uk-margin">
+            <label class="uk-form-label" for="author">Autor</label>
+            <div class="uk-form-controls">
+                <input class="uk-input" id="author" type="text" name="author" placeholder="Autor">
+            </div>
+        </div>
+        <div class="uk-margin">
+            <label class="uk-form-label" for="date">Data publikacji</label>
+            <div class="uk-form-controls">
+                <input class="uk-input" id="date" type="text" name="date" placeholder="dd.MM.YYYY">
+            </div>
+        </div>
+
+        <button class="uk-button uk-background-primary uk-button-default">
+            Dodaj
+        </button>
+    </form>
+</div>
+</body>
+</html>
