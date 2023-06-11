@@ -1,6 +1,11 @@
 #dokumentacja UIkit
 # link: https://getuikit.com/docs/table
 
+#dokumentacja Blueprint. 'Blueprint' służy do rozdzielania funkcjonalności z glównej aplikacji, żeby kod był bardziej przejrzysty
+# link: https://flask.palletsprojects.com/en/2.3.x/blueprints/
+
+#Flask SQL ALchemy - za pomocą Flask SQL Alchemy, Flask może łączyć się z bazą danych SQl. Ale wazne, instaluje Flask SQL Alchemy, a nie SQL Alchemy!
+
 
 
 from flask import Flask, render_template, request, redirect, url_for, abort
