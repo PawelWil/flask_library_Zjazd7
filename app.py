@@ -3,7 +3,7 @@
 
 
 
-from flask import Flask, render_template, request
+from flask import Flask, render_template, request, redirect, url_for, abort
 from model import model
 
 app = Flask(__name__)
@@ -30,7 +30,16 @@ def add_book():
         new_book_data['author'],
         new_book_data['date']
     )
-    return 
+    return redirect(url_for('all_books'))
+
+@app.route('/books/<int:book_id>')
+def find_book_by_id(booki_id: int)
+    found_book = model.find_by_id(booki_id)
+
+    if not found_book:
+        abort(404, f"Nie znaleziono ksiązki po id {booki_id}")
+
+
 
 if __name__ == '__main__':
     app.run()

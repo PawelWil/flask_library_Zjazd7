@@ -34,6 +34,13 @@ def add_new_book(isbn, title, author, date):
     __first_free_id += 1
 
 
+def find_by_id(book_id: int):
+    for book in __books:
+        if book.book_id == book_id:
+            return book
+
+
+
 __load_db()
 
 print(__books)
