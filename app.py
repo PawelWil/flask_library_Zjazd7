@@ -5,6 +5,19 @@
 # link: https://flask.palletsprojects.com/en/2.3.x/blueprints/
 
 #Flask SQL ALchemy - za pomocą Flask SQL Alchemy, Flask może łączyć się z bazą danych SQl. Ale wazne, instaluje Flask SQL Alchemy, a nie SQL Alchemy!
+# db - to jest instancja łączenia SQL Alechmy
+
+#w pliku .env bedzie haslo wykorzystywane
+#to połączenie sobie muszę obejrzeć na filmiku + zrobić osobny projekt na Flask SQL ALchemy, żeby to połączenie i setup zrobić.
+# Bo na filmiku, ta apka app.py, gdzie było robione wszystko pod tą bazę danych z książkami, została nadpisana przez app.py pod połączenie z SQL Alchemy
+
+# czyli będą dwa projekty, jedno związane bezpośrednio z bazą danych ksiązek (projekt ma być przesłany przez p.Andrzeja na githuba),
+# + nowy projekt który będzie miał dokładnie wszystko to samo, oprócz oczywiście app.py i zmian, które sobie przepiszę oglądając filmik
+# to jest ostatni filmik z dnia 11.06.
+
+#ważne też, żeby wszystkie te pliki HTMLa i pozostałe związane z bazą danych książek zostawić, bo na czymś trzeba pracować
+
+
 
 
 
