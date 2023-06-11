@@ -38,7 +38,12 @@ def find_by_id(book_id: int):
     for book in __books:
         if book.book_id == book_id:
             return book
+    return None
 
+def delete_book(book_id):
+    found_book = find_by_id(book_id)
+    if found_book:
+        __books.remove(found_book)
 
 
 __load_db()

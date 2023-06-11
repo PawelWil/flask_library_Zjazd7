@@ -11,6 +11,16 @@
 </head>
 <body>
 <div class="uk-container uk-margin-large-top">
+    <form class="uk-grid-small" uk-grid>
+        <div class="uk-width-1-4">
+            <input class="uk-input" type="text" placeholder="Nazwa książki" name="filter_name">
+        </div>
+        <div class="uk-width-expand">
+            <button class="uk-button uk-button-primary">
+                Filtruj
+            </button>
+        </div>
+    </form>
     <table class="uk-table uk-table-striped">
         <thead>
         <tr>
@@ -25,7 +35,7 @@
         <tbody>
         {% for book in books %}
             <tr>
-                <td>{{ book.book_id}}</td>
+                <td>{{ book.book_id }}</td>
                 <td>{{ book.isbn }}</td>
                 <td>{{ book.title }}</td>
                 <td>{{ book.author }}</td>
