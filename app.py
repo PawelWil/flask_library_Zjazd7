@@ -4,7 +4,13 @@
 #dokumentacja Blueprint. 'Blueprint' służy do rozdzielania funkcjonalności z glównej aplikacji, żeby kod był bardziej przejrzysty
 # link: https://flask.palletsprojects.com/en/2.3.x/blueprints/
 
-#Flask SQL ALchemy - za pomocą Flask SQL Alchemy, Flask może łączyć się z bazą danych SQl. Ale wazne, instaluje Flask SQL Alchemy, a nie SQL Alchemy!
+#Flask SQL ALchemy - za pomocą Flask SQL Alchemy, Flask może łączyć się z bazą danych SQl.
+
+# Ale wazne, instaluje 'Flask SQL Alchemy', a nie SQL Alchemy!
+# + instalujemy też Flask-migrate +
+# + instalujemy pyodbc
+# *Wiadomo, że tą instalację robimy z dolnej zakładki 'Python Packages'
+
 # db - to jest instancja łączenia SQL Alechmy
 
 #w pliku .env bedzie haslo wykorzystywane
@@ -17,7 +23,9 @@
 
 #ważne też, żeby wszystkie te pliki HTMLa i pozostałe związane z bazą danych książek zostawić, bo na czymś trzeba pracować
 
-
+# Co nie zostało zrobione:
+#Flask - Login - zabezpiecza dostęp do Flaska
+# WTM form
 
 
 
